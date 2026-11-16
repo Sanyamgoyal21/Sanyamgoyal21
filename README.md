@@ -8,10 +8,6 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="68%" valign="top">
-
 I'm a **Computer Science and Engineering undergraduate at UPES, Dehradun** (CGPA **9.48/10**), currently working as a **Backend Developer Intern at Faida** and formerly an **SDE Intern at Certometer, Bengaluru**. I'm passionate about building scalable full-stack applications, secure backend systems, and AI-powered products.
 
 From **enterprise HRMS platforms** to **AI-driven smart classrooms**, I enjoy turning complex problems into practical, production-ready solutions that make a real-world impact.
@@ -31,24 +27,6 @@ From **enterprise HRMS platforms** to **AI-driven smart classrooms**, I enjoy tu
 - 🧑‍🤝‍🧑 **Branch Representative** — Association for Computing Machinery (ACM), UPES
 - 🇮🇳 **Smart India Hackathon 2025** — Qualified college-level round
 - 💻 **IIIT Una Hackathon 2025** — Participant
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="assets/profile.jpg" alt="Sanyam Goyal" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| **Pulse** | Enterprise HRMS platform: employee management, attendance, leave, OKRs, reimbursements, work logs, and reporting with role-based access control | React, Node.js, Express, PostgreSQL, Prisma, Redis, Tailwind, JWT |
-| **Class AI** | AI-powered smart classroom: face-recognition attendance, classroom monitoring, AI-generated explanations, and real-time analytics | React, Node.js, Express, MongoDB, Python, TensorFlow, OpenCV |
 
 ---
 
