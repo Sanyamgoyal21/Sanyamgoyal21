@@ -39,16 +39,3 @@ From **enterprise HRMS platforms** to **AI-driven smart classrooms**, I enjoy tu
 </p>
 
 <p align="center"><i>From secure backends to intelligent classrooms — writing code that scales and solves real problems. 💡</i></p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanyamgoyal21&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyamgoyal21&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanyamgoyal21&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
